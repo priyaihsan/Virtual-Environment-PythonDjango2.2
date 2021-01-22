@@ -1,5 +1,5 @@
 # Virtual-Environment
-make virtual environment Django 2.2 in CMD
+make virtual environment
 
 
 --> python -m venv Env        /Env is the name your folder
